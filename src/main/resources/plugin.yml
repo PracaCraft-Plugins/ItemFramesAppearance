@@ -1,0 +1,7 @@
+name: ItemFramesAppearance
+version: '${project.version}'
+main: com.valdoveste.itemframesappearance.ItemFramesAppearance
+api-version: 1.19
+commands:
+  iframe:
+    usage: /<command>
